@@ -1,0 +1,48 @@
+/* media queries */
+@media (max-width: 1200px) {
+    .wrapper {
+        width: 85%;
+    }
+}
+
+@media (max-width: 1000px) {
+    .wrapper {
+        width: 90%;
+    }
+}
+
+@media (max-width: 875px){
+
+    .wrapper{
+        width: 100%;
+    }
+
+    .login{
+        margin: auto;
+        width: 50%;
+    }
+
+    .phone{
+        display: none;
+    }
+
+    footer{
+        width: 100%;
+    }
+}
+
+@media (max-width: 650px) {
+
+    .login{
+        width: 100%;
+    }
+
+    .logo{
+        width: 180px;
+    }
+
+    .block{
+        border: none;
+        background-color: inherit;
+    }
+}
