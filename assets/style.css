@@ -35,7 +35,8 @@ body{
     display: flex;
     align-items: center;
     justify-content: start;
-    height: 90vh;
+    margin: 10px 0 0 0;
+    height: 100vh;
     width: 70%;
     gap: 10px;
 }
@@ -162,7 +163,6 @@ footer{
     display: flex;
     flex-direction: column;
     margin: 30px auto;
-    
 }
 
 footer .insta{
@@ -199,4 +199,9 @@ footer p{
     color: var(--grey);
     font-size: 11px;
     margin: 5px 0;
+}
+
+footer .contacts a{
+    color: var(--grey);
+    font-size: 11px;
 }

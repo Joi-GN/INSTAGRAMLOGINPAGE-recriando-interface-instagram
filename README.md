@@ -7,3 +7,6 @@ Projeto desenvolvido para o desafio de recriar a página inicial do Instagram. P
 ##  Responsividade
 
 ![](gif2.gif)
+
+
+# Acesse a página clicando [aqui](https://joi-gn.github.io/INSTAGRAMLOGINPAGE-recriando-interface-instagram/)
